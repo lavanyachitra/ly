@@ -2,9 +2,9 @@
 int main()
 {
 int a,b,sum;
-printf("enter the two numbers:");
+printf("");
 scanf("%d%d",&a,&b);
 sum=a+b;
-printf("sum:%d",sum);
+printf("%d",sum);
 return(0);
 }
