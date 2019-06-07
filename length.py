@@ -1,2 +1,2 @@
-i=str(input())
-print(len(i.replace(" "," ")))
+n=str(input())
+print(len(n.replace(" "," ")))
