@@ -1,3 +1,3 @@
 n=int(input())
-w=["zero","one","two","three","four","five","six","seven","eight","nine","ten"]
+w=["Zero","One","Two","Three","Four","Five","Six","Seven","Eight","Nine","Ten"]
 print(w[n])
