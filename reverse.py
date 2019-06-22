@@ -1,3 +1,3 @@
 nm=input()
-k=''.join(reverse(g))
+k=''.join(reverse(nm))
 print(k)
